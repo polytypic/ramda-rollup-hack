@@ -1,4 +1,4 @@
-# Ramda Rollup Hack
+# Ramda Rollup Hack &middot; [![npm version](https://badge.fury.io/js/ramda-rollup-hack.svg)](http://badge.fury.io/js/ramda-rollup-hack)
 
 This is a quick and dirty hack that converts Ramda in-place to support Rollup
 and UglifyJS2 `/*#__PURE__*/` annotations.  This allows one to use Ramda with
