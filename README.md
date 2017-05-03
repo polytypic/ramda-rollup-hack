@@ -20,9 +20,9 @@ in the `prepare` script of NPM:
 }
 ```
 
-The `ramda-rollup-hack` scripts modifies the `package.json` file of the Ramda to
-include a `"module"` entry pointing to ES module copies `*.js -> *-es.js` of
-Ramda sources created by the script.
+The `ramda-rollup-hack` scripts modifies the `package.json` file of the Ramda
+under `node_modules` to include a `"module"` entry pointing to ES module copies
+`*.js -> *-es.js` of Ramda sources created by the script.
 
 The `ramda-rollup-hack` script has been designed to be idempotent so that
 running it multiple times against exactly matching Ramda version should not
