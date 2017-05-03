@@ -1,0 +1,25 @@
+{
+  "name": "ramda-rollup-hack",
+  "version": "0.23.0-alpha1",
+  "description": "Hack to modify Ramda in-place to support Rollup and UglifyJS2 for effective dead code elimination",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polytypic/ramda-rollup-hack.git"
+  },
+  "keywords": [
+    "ramda",
+    "rollup",
+    "uglifyjs",
+    "dead-code-elimination",
+    "kludge"
+  ],
+  "bin": {
+    "ramda-rollup-hack": "./ramda-rollup-hack"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polytypic/ramda-rollup-hack/issues"
+  },
+  "homepage": "https://github.com/polytypic/ramda-rollup-hack#readme"
+}
