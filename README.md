@@ -10,7 +10,7 @@ elimination by UglifyJS2 effective on Ramda.
 Run `ramda-rollup-hack` after installing Ramda.  For example, you could do it
 in the `prepare` script of NPM:
 
-```json
+```js
 {
   // ...
   "scripts": {
