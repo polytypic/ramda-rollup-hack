@@ -21,7 +21,7 @@ in the `prepare` script of NPM:
 }
 ```
 
-The `ramda-rollup-hack` scripts modifies the `package.json` file of the Ramda
+The `ramda-rollup-hack` script modifies the `package.json` file of the Ramda
 under `node_modules` to include a `"module"` entry pointing to ES module copies
 `*.js -> *-es.js` of Ramda sources created by the script.
 
