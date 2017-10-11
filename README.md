@@ -1,3 +1,5 @@
+**_🎉🎉🎉 This project is obsolete as of [Ramda `^0.25.0`](https://github.com/ramda/ramda/issues/2319). 🎉🎉🎉_**
+
 # Ramda Rollup Hack &middot; [![npm version](https://badge.fury.io/js/ramda-rollup-hack.svg)](http://badge.fury.io/js/ramda-rollup-hack)
 
 This is a quick and dirty hack that converts [Ramda](http://ramdajs.com/)
